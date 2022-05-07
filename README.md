@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![newleaf](https://user-images.githubusercontent.com/102044857/167234556-e157c22e-2b41-4962-b9e1-a9755a6c9fb4.svg)
+
+
 <!--
 **brettriekman/brettriekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
